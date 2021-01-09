@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dagtalah/public_html/
+    - export DEPLOYPATH=/home/fvet/public_html/
     - /bin/cp -R * $DEPLOYPATH
